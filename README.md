@@ -1,0 +1,4 @@
+synhigh
+=======
+
+untuk menghighlight kode
